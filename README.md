@@ -40,3 +40,7 @@ Analysis codes include the following contents.
 ## Afrobarometer
 * Dependent variables: `Q40D`, 'Q41D', 'Q42D'
 * **OLS Model** 
+
+
+### Github Repo
+https://github.com/yunabaek122/Harris-Policy-Labs
