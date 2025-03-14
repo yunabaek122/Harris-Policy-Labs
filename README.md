@@ -2,15 +2,14 @@
 
 ## Description
 
-This repository (folder) includes two R markdown files consisting of codes used to conduct analysis of 
-Arab Barometer and Afrobarometer.
+This repository (folder) consists raw datafiles and two R markdown files with code used to conduct analyses on the Arab Barometer and Afrobarometer datasets. The code includes non-exhaustive code chunks that illustrate how the data analysis was conducted. While extensive exploratory analyses were performed, the code provided in the markdown files prioritizes the final analyses that led to our key findings. 
 
 ### Data Files
 
 * Arab Barometer W8: ArabBarometer_WaveVIII_English_v1.csv
 * Afrobarometer R9: R9.Merge_39ctry.20Nov23.final.release_Updated.25Oct24 2 2.sav
 
-### Executing program
+### Executing codes
 
 * Change path.to.data to replicate codes
 
